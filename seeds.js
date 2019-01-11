@@ -64,7 +64,6 @@ data.forEach(function(seed){
 
 }
 
-Campground.create({})
 //add a few comments
 
 module.exports = seedDB;
